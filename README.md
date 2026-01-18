@@ -53,22 +53,3 @@ O Herói de nome Arthur está no nível Ouro
 ```
 
 ---
-
-## 🚀 Como Executar o Projeto
-
-Siga os passos abaixo para rodar o classificador em sua máquina:
-
-```bash
-# 1. Clone o repositório
-git clone [https://github.com/Andre-Araujo-Tech/classificador-nivel-heroi]
-
-# 2. Acesse a pasta do projeto
-cd classificador-nivel-heroi
-
-# 3. Compile o código
-g++ main.cpp -o classificador
-
-# 4. Execute o programa
-./classificador
-```
----
